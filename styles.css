@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-.p1{
+/* .p1{
 	color:rgb(0, 0, 255);
 	background-color: #eee;
 	font-size: 20px;
@@ -10,4 +10,10 @@
 	color:rgb(0, 0, 255);
 	background-color: #eee;
 	font-size: 20px;
-}
+} */
+
+
+
+.selector {
+      color: blue;
+    }
